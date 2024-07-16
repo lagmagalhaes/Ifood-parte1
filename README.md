@@ -18,3 +18,9 @@ de estatística descritiva aprendidos, por meio de análises em Python.
 <div>Temos dados duplicados neste dataset?</div>
 <div>Temos dados nulos neste dataset?</div> 
 <div>Qual é a média, mediana, 25 percentil, 75 percentil, mínimo e máximo de cada uma das colunas numéricas?</div>
+
+#### Vamos entender o perfil dod nossos clientes
+<div>Qual nivel de educação tem os nossos clientes</div>
+<div>Qual o estado civil dos nossos clientes</div>
+<div>Calculo da Média e Mediana de filhos por estado civil</div>
+<div>Calculo da Média e Mediana de Gastos na plataforma</div>
