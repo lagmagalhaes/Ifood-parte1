@@ -1,7 +1,7 @@
  ## Análise Exploratória Ifood
 
 Este projeto utiliza um Dataset fornecido pelo cursoEBA - Estatística do Básico ao Avançado, com o objetivo de praticar os conceitos de estatística descritiva aprendidos, por meio de análises em Python.
-<b>iFood é uma empresa brasileira de tecnologia especializada em delivery online. Como uma plataforma digital,o  seu objetivo é conectar, com simplicidade e praticidade, milhões de consumidores a restaurantes, retalhistas e distribuidores.</b>  
+<n><b>iFood</b> é uma empresa brasileira de tecnologia especializada em delivery online. Como uma plataforma digital,o  seu objetivo é conectar, com simplicidade e praticidade, milhões de consumidores a restaurantes, retalhistas e distribuidores.</n>  
 
 #### Vamos analisar as seguintes colunas:
 
