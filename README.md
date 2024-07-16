@@ -1,9 +1,9 @@
-📝 Análise Exploratória Ifood
+##📝 Análise Exploratória Ifood
 
 Este projeto utiliza um Dataset fornecido pelo cursoEBA - Estatística do Básico ao Avançado, com o objetivo de praticar os conceitos
 de estatística descritiva aprendidos, por meio de análises em Python.
 
-### Vamos analisar as seguintes colunas:
+##### Vamos analisar as seguintes colunas:
 
 <div>Income: salário do Cliente</div>
 <div>education_level: nível de educação do Cliente</div>
