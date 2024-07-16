@@ -13,3 +13,8 @@ de estatística descritiva aprendidos, por meio de análises em Python.
 
 
 #### O projeto inclui uma breve análise exploratória dos dados, seguindo as etapas delineadas abaixo:
+Quantos dados temos? Linhas e colunas
+Quais são as colunas numéricas?
+Temos dados duplicados neste dataset?
+Temos dados nulos neste dataset? 
+Qual é a média, mediana, 25 percentil, 75 percentil, mínimo e máximo de cada uma das colunas numéricas?
