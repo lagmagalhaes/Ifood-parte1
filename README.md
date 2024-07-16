@@ -4,6 +4,11 @@ Este projeto utiliza um Dataset fornecido pelo cursoEBA - Estatística do Básic
 de estatística descritiva aprendidos, por meio de análises em Python.
 
 Vamos analisar as seguintes colunas:
+Income: salário do usuário
+education_level: nível de educação do usuário
+marital_status: estado civil
+kids: quantidades de filhos (0 a 3)
+expenses: valor das despesas dos usuários
 
 Income: salário do Cliente
 education_level: nível de educação do Cliente
