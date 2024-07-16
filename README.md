@@ -11,4 +11,5 @@ de estatística descritiva aprendidos, por meio de análises em Python.
 <div>kids: Nº de filhos (0 a 3)</div>
 <div>expenses: valor das despesas dos Clientes</div>
 
-O projeto inclui uma breve análise exploratória dos dados, seguindo as etapas delineadas abaixo:
+
+#### O projeto inclui uma breve análise exploratória dos dados, seguindo as etapas delineadas abaixo:
