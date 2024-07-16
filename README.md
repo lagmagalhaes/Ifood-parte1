@@ -3,9 +3,8 @@
 Este projeto utiliza um Dataset fornecido pelo cursoEBA - Estatística do Básico ao Avançado, com o objetivo de praticar os conceitos
 de estatística descritiva aprendidos, por meio de análises em Python.
 
-Vamos analisar as seguintes colunas:vi
-<div></div>
-<div>Income: salário do Cliente</div>
+### Vamos analisar as seguintes colunas:
+
 <div>Income: salário do Cliente</div>
 <div>education_level: nível de educação do Cliente</div>
 <div>marital_status: estado civil</div>
