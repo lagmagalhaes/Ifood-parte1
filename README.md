@@ -13,17 +13,17 @@
 
 
 #### O projeto inclui uma breve análise exploratória dos dados, seguindo as etapas delineadas abaixo:
-<div>Quantos dados temos? Linhas e colunas</div>
-<div>Quais são as colunas numéricas?</div>
-<div>Temos dados duplicados neste dataset?</div>
-<div>Temos dados nulos neste dataset?</div> 
-<div>Qual é a média, mediana, 25 percentil, 75 percentil, mínimo e máximo de cada uma das colunas numéricas?</div>
+<div> - Quantos dados temos? Linhas e colunas</div>
+<div> - Quais são as colunas numéricas?</div>
+<div> - Temos dados duplicados neste dataset?</div>
+<div> -Temos dados nulos neste dataset?</div> 
+<div> - Qual é a média, mediana, 25 percentil, 75 percentil, mínimo e máximo de cada uma das colunas numéricas?</div>
 
 #### Vamos entender o perfil dod nossos clientes
-<div>Qual nivel de educação tem os nossos clientes</div>
-<div>Qual o estado civil dos nossos clientes</div>
-<div>Calculo da Média e Mediana de filhos por estado civil</div>
-<div>Calculo da Média e Mediana de Gastos na plataforma</div>
+<div> - Qual nivel de educação tem os nossos clientes</div>
+<div> - Qual o estado civil dos nossos clientes</div>
+<div> - Calculo da Média e Mediana de filhos por estado civil</div>
+<div> - Calculo da Média e Mediana de Gastos na plataforma</div>
 
 #### Teste de Hipóteses - Gastos dos Clientes com Filhos
 
