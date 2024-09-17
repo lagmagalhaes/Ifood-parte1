@@ -24,3 +24,18 @@
 <div>Qual o estado civil dos nossos clientes</div>
 <div>Calculo da Média e Mediana de filhos por estado civil</div>
 <div>Calculo da Média e Mediana de Gastos na plataforma</div>
+
+#### Teste de Hipóteses - Gastos dos Clientes com Filhos
+
+<div>A equipa de marketing solicitou uma análise mais aprofundada sobre as despesas dos clientes com diferentes números de filhos. Para tal, realizámos um teste de hipóteses com o objetivo de responder às seguintes questões:</div>
+<div>A média dos gastos difere entre os grupos de clientes com 1, 2, 3 ou mais filhos?</div>
+<div>Quais são os grupos com a média de gastos mais baixa na plataforma?</div>
+
+#### Insights para a equipa de marketing
+<div>Os resultados do teste de hipóteses revelaram:</div>
+<div>Com base nestes dados, a equipa de marketing pode:</div>
+<div>Desenvolver campanhas direcionadas para aumentar o envolvimento dos grupos com menor gasto médio</div>
+<div>Criar ofertas especiais ou pacotes de produtos que atendam às necessidades específicas destes grupos</div>
+<div>Ajustar a comunicação de marketing para ressoar melhor com as prioridades e desafios destes segmentos de clientes</div>
+<div>Ao compreender as características e comportamentos de compra dos grupos com menor gasto médio, a equipa de marketing pode elaborar estratégias mais eficientes para aumentar as vendas e melhorar a fidelização destes clientes.</div>
+
