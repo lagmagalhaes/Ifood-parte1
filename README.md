@@ -37,11 +37,11 @@
 <div> - Criar ofertas especiais ou pacotes de produtos que atendam às necessidades específicas destes grupos.</div>
 <div> - Ajustar a comunicação de marketing para ressoar melhor com as prioridades e desafios destes segmentos de clientes.</div>
 <div>Ao compreender as características e comportamentos de compra dos grupos com menor gasto médio, a equipa de marketing pode elaborar estratégias mais eficientes para aumentar as vendas e melhorar a fidelização destes clientes.</div>
-     <div> </div>
+ 
 [Prática da Parte 1](https://github.com/ludovina-magalhaes/EDA_Ifood/blob/main/Desafio_Ifood_Parte_1.ipynb)
-    <div> </div>
+   
 [Prática da Parte 2](https://github.com/ludovina-magalhaes/EDA_Ifood/blob/main/desafio_ifood_parte_2.ipynb)
-    <div> </div>
+  
 [Prática da Parte 3](https://github.com/ludovina-magalhaes/EDA_Ifood/blob/main/Ifood_Parte_3.ipynb)
 
 
